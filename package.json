@@ -1,0 +1,23 @@
+{
+  "name": "portafolio-andres-ariza",
+  "version": "1.0.0",
+  "description": "Portafolio personal de Andrés Felipe Ariza Pardo - Ingeniero de Sistemas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "azure"
+  ],
+  "author": "Andrés Felipe Ariza Pardo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
