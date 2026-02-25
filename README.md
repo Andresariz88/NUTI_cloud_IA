@@ -23,9 +23,8 @@ El diseño es limpio, moderno y completamente responsivo, optimizado para ofrece
 
 ## URL del Sitio Publicado
 
-🌐 **[https://tu-sitio.azurestaticapps.net](https://tu-sitio.azurestaticapps.net)**
+🌐 **[https://cv-aariza-eugphaeqbaggfteq.eastus-01.azurewebsites.net/index.html](https://cv-aariza-eugphaeqbaggfteq.eastus-01.azurewebsites.net/index.html)**
 
-> Nota: Reemplaza esta URL con la URL real una vez que el sitio esté desplegado en Azure Static Web Apps.
 
 ## Estructura del Proyecto
 
